@@ -1,0 +1,13 @@
+.DS_Store
+
+*.obj
+*.lc3
+*.sym
+*.lst
+*.bin
+*.hex
+*.c
+*.out
+*.o
+
+liblc3.*
