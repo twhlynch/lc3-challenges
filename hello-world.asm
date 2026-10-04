@@ -1,6 +1,6 @@
 ; ------------------------------------------------------------------------------
 ; Write a program that prints "Hello, World!\n"
-; It may not use .STRINGZ or .FILL or puts or lea
+; It may not use `.STRINGZ`, `.FILL`, `puts`, `out`, or `lea`
 ; ------------------------------------------------------------------------------
 
 .ORIG x3000
